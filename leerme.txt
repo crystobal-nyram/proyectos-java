@@ -1,0 +1,20 @@
+Hola que tal!
+
+
+soy estudiante de las tecnologias de la información,en este archivo encontraras
+el simulador de un cajero.
+
+usando PROGRAMACION ORIENTA A OBJETOS
+
+en este programa usamos el DIAGRAM DE CLASES
+donde la clase PADRE ES CLIENTE(la clase cliente es abstracta,por lo tanto sus clases hijas herenda metodos de ella)
+
+Las clases hijas son:
+EMPRESARIO 
++metodo donar<---este metodo es el que lo diferencia de la otra clase 
+CLIENTE
+
+
+
+atte: Cristobal Marín
+
